@@ -249,15 +249,16 @@
 
 1. [O'Reilly的免费数据工程电子书套件](https://www.oreilly.com/data/free/)
 
-### 3.x.3 数据工程综合课程
+### 3.14.3 数据工程综合课程
 
 1. [Big Data for Data Engineers](https://www.coursera.org/specializations/big-data-engineering)
 2. [大数据专项课程](https://www.coursera.org/specializations/big-data)
 3. [IBM数据科学专业证书](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 4. [IBM高级数据科学专项课程](https://www.coursera.org/specializations/advanced-data-science-ibm)
-5. 《数据密集型应用系统设计》
+5. [物联网程序设计专项课程](https://www.coursera.org/specializations/iot)
+6. 《数据密集型应用系统设计》
 
-### 3.x.4 24个终极数据科学项目
+### 3.14.4 24个终极数据科学项目
 
 1. [提升你知识和技能的24个终极数据科学项目](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
