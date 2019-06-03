@@ -302,10 +302,6 @@
 
 1. [提升你知识和技能的24个终极数据科学项目](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
-# 五. 数据工程培养计划
-
-
-
 # 四. 数据工程师必备前置知识
 
 ## 4.1 分布式系统基础知识
@@ -328,19 +324,17 @@
 2. [机器学习算法基础知识](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 3. [新手必读的机器学习和人工智能书籍](https://www.analyticsvidhya.com/blog/2018/10/read-books-for-beginners-machine-learning-artificial-intelligence/)
 
+# 五. 数据工程相关认证考试
 
-
-# 六. 数据工程相关认证考试
-
-## 6.1 [谷歌认证专家](https://cloud.google.com/certification/data-engineer)
+## 5.1 [谷歌认证专家](https://cloud.google.com/certification/data-engineer)
 
 目前最重要的数据工程认证之一，要获得这个证书需要通过2小时的考试，题目是多项选择题，该网页提供了一些实际操作谷歌云技术的实践指南。
 
-## 6.2 [IBM认证数据工程师](https://www.ibm.com/certify/cert?id=50001501)
+## 5.2 [IBM认证数据工程师](https://www.ibm.com/certify/cert?id=50001501)
 
 考试包括54个问题，必须正确回答44个才能通过，这里提供了进一步的学习资料，可以参考这些资料进行准备。[这里](https://www.ibm.com/certify/exam?id=C2090-101)是考试页面。
 
-## 6.3 Cloudera的CCP数据工程师
+## 5.3 Cloudera的CCP数据工程师
 
 另一个全球公认的认证，相当于具有挑战性，需要有一些使用数据工程工具的实践经验。
 
@@ -350,12 +344,13 @@
 
 ![](./RoadToDataScientist.png)
 
-# 七. 参考文献
+# 六. 参考文献
 
 1. [数据工程师vs数据科学家](https://mp.weixin.qq.com/s?__biz=MzIyODE5MTcxNw==&mid=2650373641&idx=1&sn=8a60278fbabc086996293032b08780b1&chksm=f0586283c72feb9583e78f4a2393e89c05db1740740630ff49b4b9f4dd9af01cb053c8b23118&mpshare=1&scene=1&srcid=1207dBJd8Vbzh2esCSxTqSfp#rd)
 2. [终于可以弄明白大数据、云计算、商业智能到底什么关系了](https://daily.zhihu.com/story/9342788?utm_campaign=in_app_share&utm_medium=iOS&utm_source=weixin&from=singlemessage&isappinstalled=1)
 3. [Big Data Learning Path for all Engineers and Data Scientists out there](https://www.analyticsvidhya.com/blog/2017/03/big-data-learning-path-for-all-engineers-and-data-scientists-out-there/)
 4. [一份数据工程师必备的学习资源，干货满满（附链接）](https://www.jiqizhixin.com/articles/2019-01-25-15)
+5. [Udacity商业数据分析纳米学位](https://cn.udacity.com/course/business-analyst-nanodegree--nd100-cn-trial)
 
 
 
