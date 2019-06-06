@@ -187,7 +187,7 @@
 
 ### 3.8.3 Apache Kylin
 
-1. [Apache Kylin主页]([http://kylin.apache.org/cn/](http://kylin.apache.org/cn/))
+1. [Apache Kylin主页](http://kylin.apache.org/cn/)
 
 ## 3.9 分布式计算
 
@@ -212,7 +212,7 @@
 
 #### 3.9.2.3 Apache Samza
 
-1. [Apache Samza 文档]([http://samza.apache.org/](http://samza.apache.org/))
+1. [Apache Samza 文档](http://samza.apache.org/)
 
 #### 3.9.2.4 Apache Flink
 
